@@ -138,4 +138,14 @@ conda activate default
 ```
 conda deactivate
 ```
+### Setup SSH
 
+1. Install ssh server
+```
+sudo apt update
+sudo apt install openssh-server
+```
+1. Start SSH Server
+```
+sudo systemctl status ssh
+```
