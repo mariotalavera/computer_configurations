@@ -2,7 +2,7 @@
 layout: post
 title:  "Jetson Nano Cookbook"
 date:   2019-06-06 00:01:00 -0500
-categories: [Jetson-Nano]
+categories: [computer-config]
 published: true
 ---
 
